@@ -1,6 +1,7 @@
 @import "./components/button/Button.css";
 @import "./components/inputField/InputField.css";
 @import "./components/calculator/Calculator.css";
+@import "./components/calculator/Result.css";
 
 @import "App.css";
 @import "index.css";
