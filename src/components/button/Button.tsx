@@ -6,7 +6,7 @@ interface Props {
 
 const Button: React.FC<Props> = ({label}) => {
     return (
-        <button className='btn'>{label}</button>
+        <button type='submit' className='btn'>{label}</button>
     );
 }
 
