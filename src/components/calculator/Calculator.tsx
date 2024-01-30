@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import Button from '../button/Button';
 import InputField from '../inputField/InputField';
+import Result from './Result';
 
 const Calculator = () => {
     const [val, setVal] = useState("");
@@ -35,7 +36,7 @@ const Calculator = () => {
                 </div>
                 <Button label='Calculate'/>
             </div>
-            <div>Delivery price:</div>
+            <Result/>
         </div>
     );
 }
