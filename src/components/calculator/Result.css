@@ -1,0 +1,22 @@
+.circle-big {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 296px;
+    height: 296px;
+    background-color: #EFFCFE;
+    border-radius: 50%;
+    margin: 40px 0px 0px;
+
+    .circle-small {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 224px;
+        height: 224px;
+        background-color: #CEF6FE;
+        border-radius: 50%;
+        color: #073740;
+        font-size: 20px;
+    }
+}
