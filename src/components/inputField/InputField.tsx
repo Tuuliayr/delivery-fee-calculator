@@ -11,6 +11,7 @@ interface Props {
 const InputField: React.FC<Props> = ({type, id, value, placeholder, onChange}) => {
     return (
         <input
+            required
             className='input-field'
             type={type}
             id={id}
