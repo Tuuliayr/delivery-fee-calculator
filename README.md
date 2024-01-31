@@ -3,7 +3,8 @@
 ## About
 
 This is a solution to the preliminary assignment for frontend internship, a delivery fee calculator.\
-Technologies used: React + TS
+The delivery price depends on the cart value, the number of items in the cart, the time of the order, and the delivery distance.\
+Technologies used: React + TS.
 
 ## Setup
 
