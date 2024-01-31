@@ -1,15 +1,15 @@
 import React from 'react';
 
 interface Props {
-    price: string;
+    fee: string;
 }
 
-const Result: React.FC<Props> = ({price}) => {
+const Result: React.FC<Props> = ({fee}) => {
     return (
         <div className='circle-big'>
             <div className='circle-small'>
                 Delivery price:
-                <div className='price'>{price}</div>
+                <div className='fee'>{fee}€</div>
             </div>
         </div>
     )
