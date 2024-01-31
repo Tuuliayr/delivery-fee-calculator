@@ -3,12 +3,16 @@
 ## About
 
 This is a solution to the preliminary assignment for frontend internship, a delivery fee calculator.\
-The delivery price depends on the cart value, the number of items in the cart, the time of the order, and the delivery distance.\
+The delivery price depends on the cart value, the number of items in the cart, the time of the order, and the delivery distance.
 
 ## Technologies used
-React + TS
+React and TypeScript
 
 ## Setup
+
+Install dependencies:
+
+### `npm start`
 
 In the project directory, you can run from the command prompt:
 
