@@ -6,10 +6,10 @@ interface Props {
 
 const Result: React.FC<Props> = ({fee}) => {
     return (
-        <div className='circle-big'>
-            <div className='circle-small'>
+        <div className="circle-big">
+            <div className="circle-small">
                 Delivery price:
-                <div className='fee'>{fee}€</div>
+                <div className="fee">{fee}€</div>
             </div>
         </div>
     )
