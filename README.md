@@ -12,7 +12,7 @@ React and TypeScript
 
 Install dependencies:
 
-### `npm start`
+### `npm install`
 
 In the project directory, you can run from the command prompt:
 
