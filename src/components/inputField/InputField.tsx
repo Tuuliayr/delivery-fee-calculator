@@ -1,7 +1,7 @@
 import React from 'react';
 
 interface Props {
-    type: "number" | "date" | "time";
+    type: "number" | "datetime-local";
     id: string
     value: string;
     placeholder?: string;

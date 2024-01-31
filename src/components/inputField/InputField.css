@@ -36,6 +36,6 @@ input[type=number] {
     width: 88px;
 }
 
-input[type=date] {
-    width: 176px;
+input[type=datetime-local] {
+    width: 232px;
 }
