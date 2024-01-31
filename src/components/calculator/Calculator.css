@@ -4,9 +4,6 @@
     justify-content: center;
     align-items: center;
     background-color: #FFFFFF;
-
-    width: 28%;
-    padding: 32px 0px 32px;
     border-radius: 8px;
 
     .title {
@@ -19,12 +16,11 @@
         flex-direction: row;
         justify-content: flex-start;
         align-items: center;
-        gap: 56px;
 
         .field-names {
             display: flex;
             flex-direction: column;
-            /* justify-content: center; */
+            justify-content: flex-start;
             align-items: left;
             gap: 52px;
 
@@ -49,5 +45,38 @@
                 gap: 16px;
             }
         }
+    }
+}
+
+@media (min-width: 320px) {
+    .calculator {
+        width: 95%;
+        padding: 32px 0px 32px;
+
+        .fields {
+            gap: 16px;
+        }
+    }
+}
+
+@media (min-width: 768px) {
+    .calculator {
+        width: 60%;
+
+        .fields {
+            gap: 56px;
+        }
+    }
+}
+
+@media (min-width: 1200px) {
+    .calculator {
+        width: 40%;
+    }
+}
+
+@media (min-width: 1500px) {
+    .calculator {
+        width: 28%;
     }
 }
