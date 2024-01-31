@@ -19,3 +19,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 I had only two days to build this web app, so I went with a simple design, which could be improved in the future. When I create web apps, I find it most efficient and convenient to design the layout first in Figma before coding.
 
 ## Screenshots
+![delivery-fee-calculator](https://github.com/Tuuliayr/woltapp-summer-2024/assets/70134583/b8e32945-03af-4578-aa0f-585a9f308c31)
