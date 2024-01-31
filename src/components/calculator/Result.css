@@ -10,13 +10,19 @@
 
     .circle-small {
         display: flex;
+        flex-direction: column;
         justify-content: center;
         align-items: center;
+        gap: 8px;
         width: 224px;
         height: 224px;
         background-color: #CEF6FE;
         border-radius: 50%;
         color: #073740;
         font-size: 20px;
+
+        .price {
+            font-size: 48px;
+        }
     }
 }
