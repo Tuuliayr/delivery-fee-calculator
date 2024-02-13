@@ -2,7 +2,7 @@
 
 ## About
 
-This is a solution to the preliminary assignment for Wolt Summer 2024 frontend internship, a delivery fee calculator.
+This is a solution to the preliminary assignment for Wolt Summer 2024 frontend internship applicants, a delivery fee calculator.
 
 The delivery price is calculated based on user input. The user enters the cart value, the number of items in the cart, the time of the order and the delivery distance.
 
