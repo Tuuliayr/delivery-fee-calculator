@@ -4,7 +4,11 @@
 
 This is a solution to the preliminary assignment for Wolt Summer 2024 frontend internship applicants, a delivery fee calculator.
 
-The delivery price is calculated based on user input. The user enters the cart value, the number of items in the cart, the time of the order and the delivery distance.
+The delivery price is calculated based on user input:
+- Cart value
+- Number of items in the cart
+- Time of the order
+- Delivery distance
 
 More detailed instrucitons for the assignment: https://github.com/woltapp/engineering-internship-2024
 
