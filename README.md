@@ -2,7 +2,7 @@
 
 ## About
 
-This is a solution to the preliminary assignment for **Wolt Summer 2024** frontend internship applicants.
+This is a solution to the preliminary assignment for **Wolt Summer 2024 frontend internship** applicants.
 
 The delivery price is calculated based on user input:
 - Cart value
