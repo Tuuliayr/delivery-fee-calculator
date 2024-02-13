@@ -37,6 +37,7 @@ Install dependencies:
 
 ### `npm install`
 
+
 In the project directory, you can run the app from the command prompt:
 
 ### `npm start`
