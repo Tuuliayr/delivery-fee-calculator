@@ -46,7 +46,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Approach
 
-I had only two days to build this web app, so I went with a simple design, which could be improved in the future. When I create web apps, I find it most efficient and convenient to design the layout first in Figma. Based on the Figma design I first build the layout, then the functionality and lastly I made the web app responsive.
+I had only two days to build this web app, so I went with a simple design, which could be improved in the future. When I create apps, I find it most efficient and convenient to design the layout first in Figma. Based on the Figma design I first build the layout, then the functionality and lastly I made the web app responsive.
 
 ## Screenshots
 ![delivery-fee-calculator](https://github.com/Tuuliayr/woltapp-summer-2024/assets/70134583/b8e32945-03af-4578-aa0f-585a9f308c31)
