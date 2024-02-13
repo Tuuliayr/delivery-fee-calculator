@@ -10,7 +10,7 @@ The delivery price is calculated based on user input:
 - Time of the order
 - Delivery distance
 
-More detailed instrucitons for the assignment: https://github.com/woltapp/engineering-internship-2024
+More detailed instructions for the assignment: https://github.com/woltapp/engineering-internship-2024
 
 ## Technologies used
 React, TypeScript, CSS
@@ -21,7 +21,7 @@ Install dependencies:
 
 ### `npm install`
 
-In the project directory, you can run from the command prompt:
+In the project directory, you can run the app from the command prompt:
 
 ### `npm start`
 
